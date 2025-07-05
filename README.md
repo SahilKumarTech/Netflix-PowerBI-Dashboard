@@ -1,6 +1,6 @@
-# 📺 Netflix-PowerBI-Dashboard
+#  Netflix-PowerBI-Dashboard
 
-📌 About the Project
+# 📌 About the Project
 This is a Power BI project where I analyzed a Netflix dataset to understand its content – like how many movies and TV shows are there, which genres are most popular, how content has grown over the years, and which countries produce the most Netflix content.
 
 🧰 Tools Used
